@@ -6,5 +6,6 @@ I'm a frontend developer from St.Petersburg, Russia!.
 - 📫  You can contact me through: [VK](https://vk.com/ermakoy), [Telegram](https://t.me/ermakoy).
 
 ---
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ![ermakoy stats](https://github-readme-stats.vercel.app/api?username=ermakoy&count_private=true&show_icons=true&theme=prussian)
