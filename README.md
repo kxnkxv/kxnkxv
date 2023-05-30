@@ -3,7 +3,7 @@ I'm a frontend developer from Moscow, Russia!.
 
 - 📱  Now I'm working at Sbermarket
 - 💻  My passion is React, JavaScript and everything that compiles to it.
-- 📫  You can contact me through: [VK](https://vk.com/kxnkxv), [Telegram](https://t.me/kxnkxv).
+- 📫  You can contact me through: [VK](https://vk.com/arraybuffer), [Telegram](https://t.me/kxnkxv).
 
 ---
 ![](https://komarev.com/ghpvc/?username=kxnkxv)
